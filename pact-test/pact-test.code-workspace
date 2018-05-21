@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "pact-web"
+		},
+		{
+			"path": "pact-api"
+		},
+		{
+			"path": "pact-domain"
+		}
+	],
+	"settings": {}
+}

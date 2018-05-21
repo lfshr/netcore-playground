@@ -1,0 +1,9 @@
+/home/liam/repos/netcore-playground/pact-test/pact-domain/bin/Debug/netstandard2.0/pact-domain.deps.json
+/home/liam/repos/netcore-playground/pact-test/pact-domain/bin/Debug/netstandard2.0/pact-domain.dll
+/home/liam/repos/netcore-playground/pact-test/pact-domain/bin/Debug/netstandard2.0/pact-domain.pdb
+/home/liam/repos/netcore-playground/pact-test/pact-domain/obj/Debug/netstandard2.0/pact-domain.csprojAssemblyReference.cache
+/home/liam/repos/netcore-playground/pact-test/pact-domain/obj/Debug/netstandard2.0/pact-domain.csproj.CoreCompileInputs.cache
+/home/liam/repos/netcore-playground/pact-test/pact-domain/obj/Debug/netstandard2.0/pact-domain.AssemblyInfoInputs.cache
+/home/liam/repos/netcore-playground/pact-test/pact-domain/obj/Debug/netstandard2.0/pact-domain.AssemblyInfo.cs
+/home/liam/repos/netcore-playground/pact-test/pact-domain/obj/Debug/netstandard2.0/pact-domain.dll
+/home/liam/repos/netcore-playground/pact-test/pact-domain/obj/Debug/netstandard2.0/pact-domain.pdb
