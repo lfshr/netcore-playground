@@ -1,0 +1,11 @@
+/home/liam/repos/netcore-playground/pact-web/bin/Debug/netcoreapp2.0/pact-web.deps.json
+/home/liam/repos/netcore-playground/pact-web/bin/Debug/netcoreapp2.0/pact-web.runtimeconfig.json
+/home/liam/repos/netcore-playground/pact-web/bin/Debug/netcoreapp2.0/pact-web.runtimeconfig.dev.json
+/home/liam/repos/netcore-playground/pact-web/bin/Debug/netcoreapp2.0/pact-web.dll
+/home/liam/repos/netcore-playground/pact-web/bin/Debug/netcoreapp2.0/pact-web.pdb
+/home/liam/repos/netcore-playground/pact-web/obj/Debug/netcoreapp2.0/pact-web.csprojAssemblyReference.cache
+/home/liam/repos/netcore-playground/pact-web/obj/Debug/netcoreapp2.0/pact-web.csproj.CoreCompileInputs.cache
+/home/liam/repos/netcore-playground/pact-web/obj/Debug/netcoreapp2.0/pact-web.AssemblyInfoInputs.cache
+/home/liam/repos/netcore-playground/pact-web/obj/Debug/netcoreapp2.0/pact-web.AssemblyInfo.cs
+/home/liam/repos/netcore-playground/pact-web/obj/Debug/netcoreapp2.0/pact-web.dll
+/home/liam/repos/netcore-playground/pact-web/obj/Debug/netcoreapp2.0/pact-web.pdb
