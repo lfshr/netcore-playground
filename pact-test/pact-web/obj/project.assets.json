@@ -12678,35 +12678,37 @@
     ]
   },
   "packageFolders": {
-    "/home/liam/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\e0061978\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/liam/repos/netcore-playground/pact-test/pact-web/pact-web.csproj",
+      "projectUniqueName": "c:\\repos\\netcore-playground\\pact-test\\pact-web\\pact-web.csproj",
       "projectName": "pact-web",
-      "projectPath": "/home/liam/repos/netcore-playground/pact-test/pact-web/pact-web.csproj",
-      "packagesPath": "/home/liam/.nuget/packages/",
-      "outputPath": "/home/liam/repos/netcore-playground/pact-test/pact-web/obj/",
+      "projectPath": "c:\\repos\\netcore-playground\\pact-test\\pact-web\\pact-web.csproj",
+      "packagesPath": "C:\\Users\\e0061978\\.nuget\\packages\\",
+      "outputPath": "c:\\repos\\netcore-playground\\pact-test\\pact-web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/liam/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\e0061978\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/liam/repos/netcore-playground/pact-test/pact-domain/pact-domain.csproj": {
-              "projectPath": "/home/liam/repos/netcore-playground/pact-test/pact-domain/pact-domain.csproj"
+            "c:\\repos\\netcore-playground\\pact-test\\pact-domain\\pact-domain.csproj": {
+              "projectPath": "c:\\repos\\netcore-playground\\pact-test\\pact-domain\\pact-domain.csproj"
             }
           }
         }
